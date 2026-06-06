@@ -1,0 +1,6 @@
+[package]
+name = "oxide-raft-log"
+version = "0.1.0"
+edition = "2021"
+description = "Raft-style replicated log for GPU cluster state with ternary entry status. Term conflicts, commit advancement, log compaction."
+license = "MIT"
